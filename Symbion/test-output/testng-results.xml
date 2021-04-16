@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81293" started-at="2021-04-16T13:06:13 IST" finished-at="2021-04-16T13:07:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81293" started-at="2021-04-16T13:06:13 IST" finished-at="2021-04-16T13:07:34 IST">
+      <class name="com.Scripts.Shop">
+        <test-method status="PASS" signature="launch_Application()[pri:0, instance:com.Scripts.Shop@3224f60b]" name="launch_Application" is-config="true" duration-ms="19510" started-at="2021-04-16T13:06:13 IST" finished-at="2021-04-16T13:06:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Application -->
+        <test-method status="PASS" signature="order_reference()[pri:0, instance:com.Scripts.Shop@3224f60b]" name="order_reference" duration-ms="60499" started-at="2021-04-16T13:06:32 IST" finished-at="2021-04-16T13:07:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- order_reference -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Scripts.Shop@3224f60b]" name="teardown" is-config="true" duration-ms="1222" started-at="2021-04-16T13:07:33 IST" finished-at="2021-04-16T13:07:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Scripts.Shop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
